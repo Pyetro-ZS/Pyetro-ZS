@@ -22,7 +22,7 @@
 
 ## ✨ Um pouco mais sobre mim  
 
-- 🚀 Atualmente estudando **desenvolvimento web fullstack**  
+- 🚀 Atualmente estudando **desenvolvimento web fullstack** buscando aprender mais sobre REACT
 - 🌱 Curioso por **IA e automação**  
 - 🎯 Buscando colaborar em projetos **open-source**  
 - ☕ Amante de **café + código**  
