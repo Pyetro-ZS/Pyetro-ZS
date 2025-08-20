@@ -22,7 +22,7 @@
 
 ## ✨ Um pouco mais sobre mim  
 
-- 🚀 Atualmente estudando **desenvolvimento web fullstack** buscando aprender mais sobre REACT
+- 🚀 Atualmente estudando **desenvolvimento web fullstack**  
 - 🌱 Curioso por **IA e automação**  
 - 🎯 Buscando colaborar em projetos **open-source**  
 - ☕ Amante de **café + código**  
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/pyetro-stefan-de-mesquita-costa-77a361200" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
