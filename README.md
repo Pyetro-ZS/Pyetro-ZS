@@ -1,18 +1,22 @@
-# 👋 Olá, eu sou o Pyetro!  
-
-💻 Desenvolvedor apaixonado por tecnologia, programação e criação de soluções digitais.  
-📚 Sempre em busca de novos aprendizados e desafios.  
-🎯 Focado em criar projetos que tragam impacto real.  
+<!-- Banner animado -->
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=👋%20Olá,%20eu%20sou%20o%20Pyetro!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## 🚀 Sobre mim
+✨ Desenvolvedor apaixonado por tecnologia e inovação  
+📚 Sempre explorando novas linguagens e frameworks  
+🎯 Focado em transformar ideias em soluções reais  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,13 +38,23 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true)  
+![Streak Stats](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo  
+## ✨ Um pouco mais sobre mim  
+
+- 🚀 Atualmente estudando **desenvolvimento web fullstack**  
+- 🌱 Curioso por **IA e automação**  
+- 🎯 Buscando colaborar em projetos **open-source**  
+- ☕ Amante de **café + código**  
+
+---
+
+## 🌐 Vamos nos conectar  
 
 <div align="center">
 
@@ -49,3 +63,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuinsta)
 
 </div>
+
+---
+
+<!-- Rodapé animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=120&section=footer"/>
