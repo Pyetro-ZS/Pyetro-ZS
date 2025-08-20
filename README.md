@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,python,mysql,react,nodejs,nextjs,git,github,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,python,mysql,react,nodejs,nextjs,git,github,vercel,supabase&theme=dark" />
 
 </div>
 
@@ -27,19 +27,23 @@
 - 🎯 Buscando colaborar em projetos **open-source**  
 - ☕ Amante de **café + código**  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding gif"/>
-</div>
-
 ---
 
 ## 🌐 Vamos nos conectar  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuinsta)  
+<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://seusite.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Portfólio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/seuinsta" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+</a>
 
 </div>
 
