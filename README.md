@@ -1,5 +1,6 @@
 <!-- Banner animado topo -->
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=gradient&color=ff0080,7928ca&height=200&section=header&text=👋%20Olá,%20eu%20sou%20Pyetro!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0080,7928ca&height=200&section=header&text=👋%20Olá,%20eu%20sou%20Pyetro!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+
 
 ---
 
