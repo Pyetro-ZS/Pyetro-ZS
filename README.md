@@ -30,7 +30,7 @@ Busco transformar ideias em soluções reais e colaborar em projetos que impacte
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://pyetromesquita15-gmailcoms-projects" target="_blank">
+  <a href="https://vercel.com/pyetromesquita15-gmailcoms-projects" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Portfólio"/>
   </a>
   &nbsp;&nbsp;
