@@ -30,11 +30,11 @@ Busco transformar ideias em soluções reais e colaborar em projetos que impacte
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://pyetro.dev" target="_blank">
+  <a href="https://pyetromesquita15-gmailcoms-projects" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Portfólio"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/seuinsta" target="_blank">
+  <a href="https://instagram.com/py.stefan._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
   </a>
 </div>
