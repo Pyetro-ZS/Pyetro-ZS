@@ -18,7 +18,7 @@ Busco transformar ideias em soluções reais e colaborar em projetos que impacte
 ## 🛠️ Tecnologias & Ferramentas  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nodejs,nextjs,express,mysql,git,github,vercel,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,react,nodejs,nextjs,express,mysql,git,github,vercel,supabase&theme=dark" />
 </div>
 
 ---
