@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 Sobre mim
-Sou **desenvolvedor web fullstack** apaixonado por tecnologia, inovação e resolução de problemas.  
+Sou **desenvolvedor de Software Java** apaixonado por tecnologia, inovação e resolução de problemas.  
 Busco transformar ideias em soluções reais e colaborar em projetos que impactem positivamente.
 
 - 📚 Explorando novas linguagens e frameworks  
-- 🌱 Interessado em **IA, automação e desenvolvimento web moderno**  
+- 🌱 Interessado em **IA, automação e desenvolvimento de softwares**  
 - 🎯 Focado em projetos **open-source**  
 - ☕ Amante de **café + código**  
 
