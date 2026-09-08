@@ -29,9 +29,7 @@ Busco transformar ideias em soluções reais e colaborar em projetos que impacte
   <a href="https://www.linkedin.com/in/pyetro-stefan-de-mesquita-costa-77a361200" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
  
-  &nbsp;&nbsp;
   <a href="https://instagram.com/py.stefan._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
   </a>
